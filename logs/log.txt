@@ -1,0 +1,17 @@
+
+- [Tue, 14 Mar 17 10:24:02 +0100]	debug:	exit blade.login.php	@file:"C:\wamp\www\2017_education-master\util\class.util.php", object:"LogUtil", line:319
+- [Tue, 14 Mar 17 10:24:10 +0100]	debug:	exit blade.login.php	@file:"C:\wamp\www\2017_education-master\util\class.util.php", object:"LogUtil", line:319
+- [Tue, 14 Mar 17 10:24:30 +0100]	debug:	exit blade.login.php	@file:"C:\wamp\www\2017_education-master\util\class.util.php", object:"LogUtil", line:319
+- [Sat, 15 Apr 17 20:57:03 +0200]	debug:	exit blade.login.php	@file:"C:\wamp\www\New\2017_education-master\util\class.util.php", object:"LogUtil", line:319
+- [Sat, 15 Apr 17 20:57:44 +0200]	debug:	exit blade.login.php	@file:"C:\wamp\www\New\2017_education-master\util\class.util.php", object:"LogUtil", line:319
+- [Mon, 17 Apr 17 10:32:18 +0200]	debug:	exit blade.login.php	@file:"C:\wamp\www\New\2017_education-master\util\class.util.php", object:"LogUtil", line:319
+- [Mon, 17 Apr 17 10:33:50 +0200]	debug:	exit blade.login.php	@file:"C:\wamp\www\New\2017_education-master\util\class.util.php", object:"LogUtil", line:319
+- [Mon, 17 Apr 17 10:41:36 +0200]	debug:	exit blade.user.php	@file:"C:\wamp\www\New\2017_education-master\util\class.util.php", object:"LogUtil", line:319
+- [Mon, 17 Apr 17 10:42:17 +0200]	debug:	exit blade.login.php	@file:"C:\wamp\www\New\2017_education-master\util\class.util.php", object:"LogUtil", line:319
+- [Mon, 17 Apr 17 10:44:51 +0200]	debug:	exit blade.login.php	@file:"C:\wamp\www\New\2017_education-master\util\class.util.php", object:"LogUtil", line:319
+- [Mon, 17 Apr 17 18:28:25 +0200]	debug:	exit blade.login.php	@file:"C:\wamp\www\New\2017_education-master\util\class.util.php", object:"LogUtil", line:319
+- [Mon, 17 Apr 17 18:28:33 +0200]	debug:	exit blade.login.php	@file:"C:\wamp\www\New\2017_education-master\util\class.util.php", object:"LogUtil", line:319
+- [Mon, 17 Apr 17 23:00:54 +0200]	debug:	exit blade.user.php	@file:"C:\wamp\www\New\2017_education-master\util\class.util.php", object:"LogUtil", line:319
+- [Mon, 17 Apr 17 23:02:08 +0200]	debug:	exit blade.user.php	@file:"C:\wamp\www\New\2017_education-master\util\class.util.php", object:"LogUtil", line:319
+- [Mon, 17 Apr 17 23:02:36 +0200]	debug:	exit blade.login.php	@file:"C:\wamp\www\New\2017_education-master\util\class.util.php", object:"LogUtil", line:319
+- [Mon, 17 Apr 17 23:03:02 +0200]	debug:	exit blade.login.php	@file:"C:\wamp\www\New\2017_education-master\util\class.util.php", object:"LogUtil", line:319
