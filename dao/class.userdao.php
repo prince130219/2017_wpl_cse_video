@@ -433,6 +433,6 @@ Class UserDAO{
 
 }
 
-echo '<br> log:: exit the class.userdao.php';
+//echo '<br> log:: exit the class.userdao.php';
 
 ?>

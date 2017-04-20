@@ -29,7 +29,7 @@ if(isset($_POST['login']))
 
 		$_SESSION["globalUser"]=$globalUser;
 
-		header("Location:view.home.php");		
+		header("Location:../video/view.video.php");		
 
 	}
 	else{
@@ -39,7 +39,7 @@ if(isset($_POST['login']))
 	
 }
 
-echo '<br> log:: exit blade.login.php';
+//echo '<br> log:: exit blade.login.php';
 $_Log->log(LogUtil::$DEBUG,"exit blade.login.php");
 
 ?>

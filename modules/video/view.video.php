@@ -13,8 +13,13 @@ include_once '/../../common/class.common.php';
 	</head>
 
 <body >
+<ul>
+	<li><a href="view.video.php">Home</a></li>
+	<li><a href="view.videoComment.php">VideoComment</a></li>
+	<li><a href="view.videoInfo.php">VideoSearch</a></li>
+</ul>
 <center>
-	<div id="header">
+	<div id="header" style="margin-top:50px">
 		<label >By : Kazi Masudul Alam</a></label>
 	</div>
 

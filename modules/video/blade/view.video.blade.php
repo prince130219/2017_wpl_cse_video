@@ -50,7 +50,7 @@ if(isset($_POST['update']))
     $Video->setTitle( $_POST['txtName'] );
     $Video->setDescription( $_POST['txtdes'] );
 	$Video->setLink( $_POST['txtlink'] );
-	$Video->setIsEmbed( $_POST['txtembed'] );
+	//$Video->setIsEmbed( $_POST['txtembed'] );
 	$Video->setTag( $_POST['txttag'] );
 	$_VideoBAO->updateVideo($Video);
 

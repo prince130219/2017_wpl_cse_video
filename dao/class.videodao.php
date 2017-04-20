@@ -116,7 +116,7 @@ Class VideoDAO{
 
 		$SQL = "UPDATE tbl_video SET Title='".$Video->getTitle()."',
 		Description='".$Video->getDescription()."', 
-		Link='".$Video->getLink()."' WHERE ID='".$Video->getID()."'";
+		Link='".$Video->getLink()."',TagID='".$Video->getTag()."' WHERE ID='".$Video->getID()."'";
 
 		//echo $SQL;
         

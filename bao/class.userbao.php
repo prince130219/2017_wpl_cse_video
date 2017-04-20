@@ -118,6 +118,6 @@ Class UserBAO{
 
 }
 
-echo '<br> log:: exit the class.userbao.php';
+//echo '<br> log:: exit the class.userbao.php';
 
 ?>
